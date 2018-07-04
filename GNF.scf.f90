@@ -1,3 +1,6 @@
+! this is the beginning of the 
+! fortran code... please take note
+
 program flakes
 implicit none
 real(8)::y1,y2,alat,x0
